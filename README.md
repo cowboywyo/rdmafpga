@@ -34,7 +34,7 @@ The Xilinx U200 card, with its powerful FPGA and high-bandwidth PCIe interface, 
       * Basic knowledge of SystemVerilog and FPGA development
 2.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone https://github.com/cowboywyo/rdmafpga.git
     ```
 3.  **Build the project:**
     Follow the instructions in the `docs/build.md` file to build the SystemVerilog code and generate the bitstream.
